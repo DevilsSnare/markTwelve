@@ -1,0 +1,61 @@
+.check {
+  width: 100%;
+  margin: auto;
+}
+.check-name {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 3rem;
+  font-weight: bold;
+}
+.check-details {
+  display: block;
+  margin: 0.5rem auto 1rem;
+  text-align: center;
+  font-size: 1.3rem;
+}
+.quiz-form {
+  margin: auto;
+  max-width: 700px;
+}
+.question-container {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: justify;
+}
+label {
+  font-size: 1.3rem;
+}
+input {
+  margin: auto 0.7rem;
+}
+.check-button {
+  display: block;
+  margin: 1rem auto;
+  text-align: center;
+  width: fit-content;
+  padding: 0.2rem;
+  color: black;
+  font-size: 1.3rem;
+  border: 2px solid black;
+  cursor: pointer;
+}
+.check-button:hover {
+  background-color: black;
+  color: white;
+}
+.result {
+  margin: 2rem auto;
+  text-align: center;
+  font-size: 1.5rem;
+}
+footer {
+  height: 6rem;
+}
